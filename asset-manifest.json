@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Modgenics/static/css/main.2e466fb5.css",
+    "main.js": "/Modgenics/static/js/main.e7b99729.js",
+    "static/js/787.856a2c82.chunk.js": "/Modgenics/static/js/787.856a2c82.chunk.js",
+    "static/media/run.jpg": "/Modgenics/static/media/run.6fa92611ff3f81ccb855.jpg",
+    "static/media/mount1.jpg": "/Modgenics/static/media/mount1.4ce15bc1b038f5070329.jpg",
+    "static/media/tech.jpg": "/Modgenics/static/media/tech.2ded7d745aa658803417.jpg",
+    "static/media/profile.jpg": "/Modgenics/static/media/profile.d49921946459dd8a810f.jpg",
+    "static/media/mount2.jpg": "/Modgenics/static/media/mount2.bec0fa36ca2abaad977c.jpg",
+    "index.html": "/Modgenics/index.html",
+    "main.2e466fb5.css.map": "/Modgenics/static/css/main.2e466fb5.css.map",
+    "main.e7b99729.js.map": "/Modgenics/static/js/main.e7b99729.js.map",
+    "787.856a2c82.chunk.js.map": "/Modgenics/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e466fb5.css",
+    "static/js/main.e7b99729.js"
+  ]
+}
